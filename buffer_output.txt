@@ -1,0 +1,1 @@
+FAST js buffers are powerful and flexible!
